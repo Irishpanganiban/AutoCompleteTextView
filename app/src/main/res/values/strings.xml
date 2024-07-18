@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">AutoCompleteTextView</string>
+    
+    <string-array name="jobs">
+        <item>Irish Panganiban</item>
+        <item>Julius Jervin Bundalian</item>
+        <item>Dion Jason Obingayan</item>
+        <item>Angelyn Argarin</item>
+        <item>Louie Angela Glipo</item>
+        <item>Diana Ruth Belgica</item>
+        <item>Eunisse Gwen Baytamo</item>
+        <item>Ashley Laid</item>
+        <item>Rica Sofremo</item>
+        <item>April Liz</item>
+        <item>Desiree Estanislao</item>
+
+    </string-array>
+</resources>
